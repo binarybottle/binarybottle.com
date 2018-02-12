@@ -1,0 +1,172 @@
+body {
+        background-image:url('./images/halloweens/halloween_lineup_2015_800x160.png'); 
+        background-repeat: no-repeat;
+        font-family: Syntax, Palatino, Georgia, Arial, Times;
+        font-size: 95%;
+}
+.box1 { 
+        position: relative; 
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px;
+        width: 800px; 
+        height: 160px; 
+        background-image:url('./images/halloweens/halloween_lineup_2015_800x160.png'); 
+        background-repeat: no-repeat;
+}
+#box-link { 
+        position: absolute; 
+        top: 0px; 
+        left: 0px; 
+        width: 800px; 
+        height: 160px; 
+        background-color: transparent; 
+        border: 0px solid yellow;
+}
+
+img, td, th { page-break-inside: avoid; }
+
+div.banner {
+        position: absolute;
+        top:       0px;
+        left:      0px;
+}
+div.banner_text {
+        font-size: 8px;
+  }
+  div.riceman {
+        position: absolute;
+        top:       160px;
+        left:      10px;
+  }
+  div.chiliman {
+        position: absolute;
+        top:       160px;
+        left:      50px;
+  }
+  div.dogfoodman {
+        position: absolute;
+        top:       160px;
+        left:      95px;
+  }
+  div.ghost {
+        position: absolute;
+        top:       160px;
+        left:      155px;
+  }
+  div.guanoman {
+        position: absolute;
+        top:       160px;
+        left:      210px;
+  }
+  div.seedman {
+        position: absolute;
+        top:       160px;
+        left:      260px;
+  }
+  div.cornman {
+        position: absolute;
+        top:       160px;
+        left:      310px;
+  }
+  div.popcornman {
+        position: absolute;
+        top:       160px;
+        left:      360px;
+  }
+  div.pumpkinman {
+        position: absolute;
+        top:       160px;
+        left:      435px;
+  }
+  div.onlooker {
+        position: absolute;
+        top:       160px;
+        left:      490px;
+  }
+  div.gumball {
+        position: absolute;
+        top:       160px;
+        left:      545px;
+  }
+  div.twizzler {
+        position: absolute;
+        top:       160px;
+        left:      600px;
+  }
+  div.change {
+        position: absolute;
+        top:       160px;
+        left:      660px;
+  }
+  div.reflecto {
+        position: absolute;
+        top:       160px;
+        left:      720px;
+  }
+
+div.navbar {
+        position: absolute;
+        top:    190px;
+        left:   10px;
+  }
+  div.navtriangle_projects {
+        position: absolute;
+        top:    225px;
+        left:   268px;  
+  }
+  div.navtriangle_papers {
+        position: absolute;
+        top:    225px;
+        left:   378px;  
+  }
+  div.navtriangle_cv {
+        position: absolute;
+        top:    225px;
+        left:   472px;  
+  }
+  div.navtriangle_contact {
+        position: absolute;
+        top:    225px;
+        left:   568px;
+  }
+
+div.main {
+        position: absolute;
+        top:    250px;
+        left:   10px;
+        #width:  820px;
+}
+
+div.main-papers {
+        position: absolute;
+        top:    250px;
+        left:   40px;
+        width:  760px;
+}
+
+div.main800 {
+        position: absolute;
+        top:    250px;
+        left:   10px;
+        width:  820px;
+}
+
+div.footer {
+}
+
+a:link {
+    color: #CC0000;
+    text-decoration:none;
+}
+a:visited {
+    color: #CC3333;
+    text-decoration:none;
+}
+a:hover {  
+    color: #FF0000;
+    text-decoration:none;
+}
+a:active {
+    color: #FF9933;
+    text-decoration:none;
+}
