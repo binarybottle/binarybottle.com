@@ -1,5 +1,5 @@
 <?php
 
-header("location: http://www.mindboggle.info");
+header("location: https://www.mindboggle.info");
 
 ?>
